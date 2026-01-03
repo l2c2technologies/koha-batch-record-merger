@@ -98,7 +98,7 @@ Export the `biblionumbers` column to create the input file for the script.
 
 **Note:** This query only returns biblios that have items attached. Adjust matching criteria as needed for your data.
 
-## What gets nerged
+## What gets merged
 
 The `Koha::Biblio->merge_with()` method handles:
 
